@@ -1,4 +1,4 @@
-package com.example.admin.weatherbroadcast;
+package com.example.admin.android;
 
 import org.junit.Test;
 

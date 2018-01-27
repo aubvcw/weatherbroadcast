@@ -1,4 +1,4 @@
-package com.example.admin.weatherbroadcast;
+package com.example.admin.android;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

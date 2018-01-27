@@ -1,0 +1,13 @@
+<litepal>
+
+    <dbname values="weathter" />
+
+    <version value="1" />
+
+    <list>
+        <mapping class="com.example.admin.android.db.Province" />
+        <mapping class="com.example.admin.android.db.City" />
+        <mapping class="com.example.admin.android.db.County" />
+    </list>
+
+</litepal>
